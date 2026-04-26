@@ -34,11 +34,9 @@
 ---
 
 ## 🔗 Connect with Me
-- 💼 LinkedIn: www.linkedin.com/in/sawera-cs
-- 💻 GitHub: (your GitHub link)
+- 💼 LinkedIn:https://www.linkedin.com/in/sawera-cs
+- 💻 GitHub: https://github.com/sawera-cs
 
 ---
 
 ✨ *This is just the beginning of my journey in tech.*
-
-🔗 LinkedIn: www.linkedin.com/in/sawera-cs
