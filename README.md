@@ -21,8 +21,12 @@
 ---
 
 ## 📂 Projects
-- 🔹 Circular Priority Queue in C++ *(Coming Soon)*
-- 🔹 More projects will be added as I continue learning  
+-  Circular Priority Queue in C++ 
+-  Music-Playback-Queue-Doubly Linked list in C++
+-  Clinic Appointment Scheduler in C++
+-  Food ordering system in php
+-  Wate waste AI app
+-  Agentic AI calculator agent
 
 ---
 
